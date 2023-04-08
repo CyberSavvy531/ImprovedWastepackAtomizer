@@ -7,5 +7,6 @@
 		<li>1.4</li>
 	</supportedVersions>
 	<description>
-Increases the overall efficiency of the vanilla wastepack atomizer by 50% and now includes two new atomizer variants for mid and late game.	</description>
+Increases the overall efficiency of the vanilla wastepack atomizer by 50% and now includes two new atomizer variants for mid and late game. All three variants are grouped as a dropdown selection when clicking the wastepack atomizer.
+	</description>
 </ModMetaData>
