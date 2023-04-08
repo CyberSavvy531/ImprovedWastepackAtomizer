@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ResearchProjectDef>
+    <defName>SmallWastepackAtomizer</defName>
+    <label>wastepack atomizer (Small)</label>
+    <description>A small wastepack atomizer that's barely better than lighting a trash can on fire. Due to inefficiencies in it's design, this version consumes a lot of energy and isn't as efficient compared to alternatives. But it's better than nothing.</description>
+    <baseCost>2000</baseCost>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+    <techLevel>Industrial</techLevel>
+    <prerequisites>
+      <li>HighMechtech</li>
+    </prerequisites>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+    <tab>ImprovedWastepackAtomizer</tab>
+  </ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>LargeWastepackAtomizer</defName>
+    <label>wastepack atomizer (Large)</label>
+    <description>A large version of the wastepack atomizer. While this huge machine consumes an equally huge amount of energy, it's far more efficient in disposing of waste in a green manner.</description>
+    <techLevel>Ultra</techLevel>
+    <baseCost>6000</baseCost>
+    <researchViewX>0</researchViewX>
+    <researchViewY>1</researchViewY>
+    <prerequisites>
+      <li>UltraMechtech</li>
+      <li>WastepackAtomizer</li>
+    </prerequisites>
+    <requiredResearchFacilities>
+      <li>MultiAnalyzer</li>
+    </requiredResearchFacilities>
+    <tab>ImprovedWastepackAtomizer</tab>
+  </ResearchProjectDef>
+
+</Defs>
