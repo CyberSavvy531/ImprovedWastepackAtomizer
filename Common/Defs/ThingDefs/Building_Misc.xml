@@ -11,7 +11,7 @@
         <drawerType>MapMeshAndRealTime</drawerType>
         <tickerType>Normal</tickerType>
         <graphicData>
-          <texPath>Things/Building/Misc/WastepackAtomizer</texPath>
+          <texPath>Things/Building/Misc/WastepackAtomizerSmall</texPath>
           <graphicClass>Graphic_Multi</graphicClass>
           <drawSize>(2,1)</drawSize>
           <shadowData>
@@ -44,7 +44,7 @@
         <designationCategory>Biotech</designationCategory>
         <designatorDropdown>WastepackAtomizers</designatorDropdown>
         <hasInteractionCell>true</hasInteractionCell>
-        <interactionCellOffset>(0, 0, -1)</interactionCellOffset>
+        <interactionCellOffset>(1, 0, 1)</interactionCellOffset>
         <statBases>
           <MaxHitPoints>300</MaxHitPoints>
           <WorkToBuild>20000</WorkToBuild>
@@ -92,7 +92,7 @@
         <drawerType>MapMeshAndRealTime</drawerType>
         <tickerType>Normal</tickerType>
         <graphicData>
-          <texPath>Things/Building/Misc/WastepackAtomizer</texPath>
+          <texPath>Things/Building/Misc/WastepackAtomizerLarge</texPath>
           <graphicClass>Graphic_Multi</graphicClass>
           <drawSize>(5,4)</drawSize>
           <shadowData>
@@ -125,7 +125,7 @@
         <designationCategory>Biotech</designationCategory>
        <designatorDropdown>WastepackAtomizers</designatorDropdown>
         <hasInteractionCell>true</hasInteractionCell>
-        <interactionCellOffset>(0, 0, -2)</interactionCellOffset>
+        <interactionCellOffset>(0, 0, 3)</interactionCellOffset>
         <statBases>
           <MaxHitPoints>1500</MaxHitPoints>
           <WorkToBuild>50000</WorkToBuild>
