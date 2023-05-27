@@ -87,7 +87,7 @@
     <ThingDef ParentName="BuildingBase">
         <defName>LargeWastepackAtomizer</defName>
         <label>large wastepack atomizer</label>
-        <description>A large version of the wastepack atomizer. While this huge machine consumes an equally huge amount of energy, it's far more efficient in disposing of waste in a green manner.</description>
+        <description>A large version of the wastepack atomizer. While this huge machine consumes an equally huge amount of energy, it's far more effective in disposing of waste in a green manner.</description>
         <thingClass>Building_WastepackAtomizer</thingClass>
         <drawerType>MapMeshAndRealTime</drawerType>
         <tickerType>Normal</tickerType>
