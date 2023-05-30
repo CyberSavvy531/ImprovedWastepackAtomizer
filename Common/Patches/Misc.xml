@@ -33,4 +33,11 @@
 		</value>
 	</Operation>
 
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[defName="WastepackAtomizer"]/graphicData/texPath</xpath>
+		<value>
+			<texPath>Things/Building/Misc/Reversed/WastepackAtomizer</texPath>
+		</value>
+	</Operation>
+
 </Patch>
