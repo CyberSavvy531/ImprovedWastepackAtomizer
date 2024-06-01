@@ -6,4 +6,8 @@
         <li IfModActive="Ludeon.Rimworld.Biotech">Common</li>
     </v1.4>
 
+    <v1.5>
+        <li IfModActive="Ludeon.Rimworld.Biotech">Common</li>
+    </v1.5>
+
 </loadFolders>
