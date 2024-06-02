@@ -23,7 +23,7 @@
         <canOverlapZones>false</canOverlapZones>
         <pathCost>60</pathCost>
         <blockWind>true</blockWind>
-        <fillPercent>0.5</fillPercent>
+        <fillPercent>0.25</fillPercent>
         <building>
           <buildingTags>
             <li>Biotech</li>
@@ -102,9 +102,8 @@
         <altitudeLayer>Building</altitudeLayer>
         <passability>Impassable</passability>
         <canOverlapZones>false</canOverlapZones>
-        <pathCost>100</pathCost>
         <blockWind>true</blockWind>
-        <fillPercent>0.5</fillPercent>
+        <fillPercent>1</fillPercent>
         <building>
           <buildingTags>
             <li>Biotech</li>
