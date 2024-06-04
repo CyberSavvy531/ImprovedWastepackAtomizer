@@ -8,4 +8,16 @@
 		<li>1.5</li>
 	</supportedVersions>
 	<description>Increases the overall efficiency of the vanilla wastepack atomizer by 50% and now includes two new atomizer variants for mid and late game. All three variants are grouped as a dropdown selection when clicking the wastepack atomizer.</description>
+	<modDependencies>
+      <li>
+          <packageId>Ludeon.RimWorld.Biotech</packageId>
+          <displayName>Biotech</displayName>
+      </li>
+  	</modDependencies>
+	<forceLoadBefore>
+		<li>Cyber.Miniaturization</li>
+	</forceLoadBefore>
+	<forceLoadAfter>
+		<li>Ludeon.RimWorld.Biotech</li>
+	</forceLoadAfter>
 </ModMetaData>
