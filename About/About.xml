@@ -14,10 +14,10 @@
           <displayName>Biotech</displayName>
       </li>
   	</modDependencies>
-	<forceLoadBefore>
+	<loadBefore>
 		<li>Cyber.Miniaturization</li>
-	</forceLoadBefore>
-	<forceLoadAfter>
+	</loadBefore>
+	<loadAfter>
 		<li>Ludeon.RimWorld.Biotech</li>
-	</forceLoadAfter>
+	</loadAfter>
 </ModMetaData>
