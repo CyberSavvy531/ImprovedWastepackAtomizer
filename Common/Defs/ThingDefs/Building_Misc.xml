@@ -66,13 +66,13 @@
         <comps>
           <li Class="CompProperties_Power">
             <compClass>CompPowerTrader</compClass>
-            <basePowerConsumption>800</basePowerConsumption>
+            <basePowerConsumption>1000</basePowerConsumption>
           </li>
           <li Class="CompProperties_Atomizer">
             <thingDef>Wastepack</thingDef>
             <stackLimit>5</stackLimit>
             <drawContainedThing>false</drawContainedThing>
-            <ticksPerAtomize>42400</ticksPerAtomize>
+            <ticksPerAtomize>33882</ticksPerAtomize>
             <resolveEffecter>AtomizerResolve</resolveEffecter>
             <workingEffecter>WastepackAtomizer_Working</workingEffecter>
             <materialsAddedSound>WastepackAtomizer_MaterialInserted</materialsAddedSound>
@@ -149,13 +149,13 @@
         <comps>
           <li Class="CompProperties_Power">
             <compClass>CompPowerTrader</compClass>
-            <basePowerConsumption>4200</basePowerConsumption>
+            <basePowerConsumption>3000</basePowerConsumption>
           </li>
           <li Class="CompProperties_Atomizer">
             <thingDef>Wastepack</thingDef>
             <stackLimit>50</stackLimit>
             <drawContainedThing>false</drawContainedThing>
-            <ticksPerAtomize>7000</ticksPerAtomize>
+            <ticksPerAtomize>6472</ticksPerAtomize>
             <resolveEffecter>AtomizerResolve</resolveEffecter>
             <workingEffecter>WastepackAtomizer_Working</workingEffecter>
             <materialsAddedSound>WastepackAtomizer_MaterialInserted</materialsAddedSound>

@@ -8,14 +8,14 @@
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="WastepackAtomizer"]/comps/li[@Class="CompProperties_Power"]/basePowerConsumption</xpath>
 		<value>
-			<basePowerConsumption>600</basePowerConsumption>
+			<basePowerConsumption>700</basePowerConsumption>
 		</value>
 	</Operation>
 
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName="WastepackAtomizer"]/comps/li[@Class="CompProperties_Atomizer"]/ticksPerAtomize</xpath>
 		<value>
-			<ticksPerAtomize>20000</ticksPerAtomize>
+			<ticksPerAtomize>15568</ticksPerAtomize>
 		</value>
 	</Operation>
 
